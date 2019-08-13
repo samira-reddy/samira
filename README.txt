@@ -1,1 +1,1 @@
-github.com/samira-reddy/samira
+https://samira-reddy.github.io/samira/
