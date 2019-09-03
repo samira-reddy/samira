@@ -1,5 +1,6 @@
 body {
-    background-color: #e4c9ff
+    background-color: #30081e
+    /* #520e32 */
 }
   h1 {
       color: white;
@@ -17,6 +18,10 @@ body {
       font-size: 110%;
 
   }
+  /* poster {
+    width: 1000;
+    height: 400;
+  } */
   p {
     color: black;
   }
